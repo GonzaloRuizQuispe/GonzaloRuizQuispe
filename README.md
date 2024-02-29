@@ -1,7 +1,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="https://avatars.githubusercontent.com/u/62969610?v=4"  />
 </div>
 
 ###
