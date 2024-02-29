@@ -1,32 +1,14 @@
-<h2 align="left">Hola 👋! Mi nombre es Gonzalo y soy un programador de Argentina.</h2>
+###
+
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+###
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gonzaloruizquispe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=gonzaloruizquispe&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gonzaloruizquispe&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="30" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-</div>
-
-###
-
-<div align="left">
   <a href="https://discord.com/users/525928758348087299" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
@@ -46,8 +28,30 @@
 
 ###
 
-<br clear="both">
+<h1 align="left">🌟 Acerca de Mí 🌟</h1>
 
-<img src="https://raw.githubusercontent.com/gonzaloruizquispe/gonzaloruizquispe/output/snake.svg" alt="Snake animation" />
+###
+
+<p align="left">👋 ¡Hola! Soy Gonzalo Ruiz Quispe, un apasionado de la programación de 21 años. Desde muy pequeño, me he sentido fascinado por el mundo de la informática y la creación de software. Mi interés por la programación comenzó temprano y ha crecido con el tiempo.<br><br>Me gusta explorar diferentes lenguajes de programación y tecnologías, centrándome principalmente en el desarrollo de backend. Disfruto especialmente diseñando sistemas eficientes y escalables que brinden soluciones sólidas a problemas complejos.<br><br>Uno de mis pasatiempos favoritos es desarrollar programas que simplifiquen tareas cotidianas y repetitivas. No solo me divierte crear soluciones innovadoras, sino que también me permite aprender y mejorar mis habilidades de programación en el proceso.<br><br>Cuando no estoy frente a mi computadora, me gusta explorar nuevas tecnologías, leer sobre tendencias en desarrollo de software y compartir conocimientos con otros entusiastas de la programación. Estoy constantemente buscando desafíos que me permitan crecer como desarrollador y contribuir al mundo tecnológico de manera significativa.<br><br>Siempre estoy abierto a nuevas oportunidades de aprendizaje y colaboración en proyectos emocionantes. ¡No dudes en ponerte en contacto conmigo si quieres discutir ideas o trabajar juntos en algo genial! 🚀</p>
+
+###
+
+<h2 align="left">💻 Lenguajes y Herramientas 💻</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+</div>
 
 ###
